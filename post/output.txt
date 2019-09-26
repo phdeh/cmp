@@ -1,0 +1,1545 @@
+1: Condition
+11111111 11
+^          
+2: Right
+11111111 11
+^          
+1: Condition
+11111111 11
+ ^         
+2: Right
+11111111 11
+ ^         
+1: Condition
+11111111 11
+  ^        
+2: Right
+11111111 11
+  ^        
+1: Condition
+11111111 11
+   ^       
+2: Right
+11111111 11
+   ^       
+1: Condition
+11111111 11
+    ^      
+2: Right
+11111111 11
+    ^      
+1: Condition
+11111111 11
+     ^     
+2: Right
+11111111 11
+     ^     
+1: Condition
+11111111 11
+      ^    
+2: Right
+11111111 11
+      ^    
+1: Condition
+11111111 11
+       ^   
+2: Right
+11111111 11
+       ^   
+1: Condition
+11111111 11
+        ^  
+4: Right
+11111111 11
+        ^  
+3: Condition
+11111111 11
+         ^ 
+4: Right
+11111111 11
+         ^ 
+3: Condition
+11111111 11
+          ^
+4: Right
+11111111 11
+          ^
+3: Condition
+11111111 11 
+           ^
+5: Right
+11111111 11 
+           ^
+6: Mark
+11111111 11  
+            ^
+7: Left
+11111111 11 1
+            ^
+8: Left
+11111111 11 1
+           ^ 
+9: Condition
+11111111 11 1
+          ^  
+8: Left
+11111111 11 1
+          ^  
+9: Condition
+11111111 11 1
+         ^   
+8: Left
+11111111 11 1
+         ^   
+9: Condition
+11111111 11 1
+        ^    
+10: Left
+11111111 11 1
+        ^    
+11: Condition
+11111111 11 1
+       ^     
+10: Left
+11111111 11 1
+       ^     
+11: Condition
+11111111 11 1
+      ^      
+10: Left
+11111111 11 1
+      ^      
+11: Condition
+11111111 11 1
+     ^       
+10: Left
+11111111 11 1
+     ^       
+11: Condition
+11111111 11 1
+    ^        
+10: Left
+11111111 11 1
+    ^        
+11: Condition
+11111111 11 1
+   ^         
+10: Left
+11111111 11 1
+   ^         
+11: Condition
+11111111 11 1
+  ^          
+10: Left
+11111111 11 1
+  ^          
+11: Condition
+11111111 11 1
+ ^           
+10: Left
+11111111 11 1
+ ^           
+11: Condition
+11111111 11 1
+^            
+10: Left
+11111111 11 1
+^            
+11: Condition
+ 11111111 11 1
+^             
+12: Right
+ 11111111 11 1
+^             
+56: Condition
+11111111 11 1
+^            
+13: Unmark
+11111111 11 1
+^            
+14: Right
+ 1111111 11 1
+^            
+15: Condition
+1111111 11 1
+^           
+14: Right
+1111111 11 1
+^           
+15: Condition
+1111111 11 1
+ ^          
+14: Right
+1111111 11 1
+ ^          
+15: Condition
+1111111 11 1
+  ^         
+14: Right
+1111111 11 1
+  ^         
+15: Condition
+1111111 11 1
+   ^        
+14: Right
+1111111 11 1
+   ^        
+15: Condition
+1111111 11 1
+    ^       
+14: Right
+1111111 11 1
+    ^       
+15: Condition
+1111111 11 1
+     ^      
+14: Right
+1111111 11 1
+     ^      
+15: Condition
+1111111 11 1
+      ^     
+14: Right
+1111111 11 1
+      ^     
+15: Condition
+1111111 11 1
+       ^    
+16: Right
+1111111 11 1
+       ^    
+17: Condition
+1111111 11 1
+        ^   
+18: Right
+1111111 11 1
+        ^   
+19: Condition
+1111111 11 1
+         ^  
+18: Right
+1111111 11 1
+         ^  
+19: Condition
+1111111 11 1
+          ^ 
+20: Left
+1111111 11 1
+          ^ 
+21: Unmark
+1111111 11 1
+         ^  
+22: Left
+1111111 1  1
+         ^  
+23: Condition
+1111111 1  1
+        ^   
+22: Left
+1111111 1  1
+        ^   
+23: Condition
+1111111 1  1
+       ^    
+24: Left
+1111111 1  1
+       ^    
+25: Condition
+1111111 1  1
+      ^     
+24: Left
+1111111 1  1
+      ^     
+25: Condition
+1111111 1  1
+     ^      
+24: Left
+1111111 1  1
+     ^      
+25: Condition
+1111111 1  1
+    ^       
+24: Left
+1111111 1  1
+    ^       
+25: Condition
+1111111 1  1
+   ^        
+24: Left
+1111111 1  1
+   ^        
+25: Condition
+1111111 1  1
+  ^         
+24: Left
+1111111 1  1
+  ^         
+25: Condition
+1111111 1  1
+ ^          
+24: Left
+1111111 1  1
+ ^          
+25: Condition
+1111111 1  1
+^           
+24: Left
+1111111 1  1
+^           
+25: Condition
+ 1111111 1  1
+^            
+12: Right
+ 1111111 1  1
+^            
+56: Condition
+1111111 1  1
+^           
+13: Unmark
+1111111 1  1
+^           
+14: Right
+ 111111 1  1
+^           
+15: Condition
+111111 1  1
+^          
+14: Right
+111111 1  1
+^          
+15: Condition
+111111 1  1
+ ^         
+14: Right
+111111 1  1
+ ^         
+15: Condition
+111111 1  1
+  ^        
+14: Right
+111111 1  1
+  ^        
+15: Condition
+111111 1  1
+   ^       
+14: Right
+111111 1  1
+   ^       
+15: Condition
+111111 1  1
+    ^      
+14: Right
+111111 1  1
+    ^      
+15: Condition
+111111 1  1
+     ^     
+14: Right
+111111 1  1
+     ^     
+15: Condition
+111111 1  1
+      ^    
+16: Right
+111111 1  1
+      ^    
+17: Condition
+111111 1  1
+       ^   
+18: Right
+111111 1  1
+       ^   
+19: Condition
+111111 1  1
+        ^  
+20: Left
+111111 1  1
+        ^  
+21: Unmark
+111111 1  1
+       ^   
+22: Left
+111111    1
+       ^   
+23: Condition
+111111    1
+      ^    
+24: Left
+111111    1
+      ^    
+25: Condition
+111111    1
+     ^     
+24: Left
+111111    1
+     ^     
+25: Condition
+111111    1
+    ^      
+24: Left
+111111    1
+    ^      
+25: Condition
+111111    1
+   ^       
+24: Left
+111111    1
+   ^       
+25: Condition
+111111    1
+  ^        
+24: Left
+111111    1
+  ^        
+25: Condition
+111111    1
+ ^         
+24: Left
+111111    1
+ ^         
+25: Condition
+111111    1
+^          
+24: Left
+111111    1
+^          
+25: Condition
+ 111111    1
+^           
+12: Right
+ 111111    1
+^           
+56: Condition
+111111    1
+^          
+13: Unmark
+111111    1
+^          
+14: Right
+ 11111    1
+^          
+15: Condition
+11111    1
+^         
+14: Right
+11111    1
+^         
+15: Condition
+11111    1
+ ^        
+14: Right
+11111    1
+ ^        
+15: Condition
+11111    1
+  ^       
+14: Right
+11111    1
+  ^       
+15: Condition
+11111    1
+   ^      
+14: Right
+11111    1
+   ^      
+15: Condition
+11111    1
+    ^     
+14: Right
+11111    1
+    ^     
+15: Condition
+11111    1
+     ^    
+16: Right
+11111    1
+     ^    
+17: Condition
+11111    1
+      ^   
+26: Mark
+11111    1
+      ^   
+27: Right
+11111 1  1
+      ^   
+28: Condition
+11111 1  1
+       ^  
+26: Mark
+11111 1  1
+       ^  
+27: Right
+11111 11 1
+       ^  
+28: Condition
+11111 11 1
+        ^ 
+26: Mark
+11111 11 1
+        ^ 
+27: Right
+11111 1111
+        ^ 
+28: Condition
+11111 1111
+         ^
+29: Left
+11111 1111
+         ^
+30: Unmark
+11111 1111
+        ^ 
+31: Right
+11111 11 1
+        ^ 
+32: Right
+11111 11 1
+         ^
+33: Right
+11111 11 1 
+          ^
+34: Condition
+11111 11 1  
+           ^
+35: Mark
+11111 11 1  
+           ^
+36: Left
+11111 11 1 1
+           ^
+37: Condition
+11111 11 1 1
+          ^ 
+38: Left
+11111 11 1 1
+          ^ 
+39: Left
+11111 11 1 1
+         ^  
+40: Left
+11111 11 1 1
+        ^   
+41: Condition
+11111 11 1 1
+       ^    
+40: Left
+11111 11 1 1
+       ^    
+41: Condition
+11111 11 1 1
+      ^     
+40: Left
+11111 11 1 1
+      ^     
+41: Condition
+11111 11 1 1
+     ^      
+42: Left
+11111 11 1 1
+     ^      
+43: Condition
+11111 11 1 1
+    ^       
+44: Left
+11111 11 1 1
+    ^       
+45: Condition
+11111 11 1 1
+   ^        
+44: Left
+11111 11 1 1
+   ^        
+45: Condition
+11111 11 1 1
+  ^         
+44: Left
+11111 11 1 1
+  ^         
+45: Condition
+11111 11 1 1
+ ^          
+44: Left
+11111 11 1 1
+ ^          
+45: Condition
+11111 11 1 1
+^           
+44: Left
+11111 11 1 1
+^           
+45: Condition
+ 11111 11 1 1
+^            
+46: Mark
+ 11111 11 1 1
+^            
+47: Left
+111111 11 1 1
+^            
+12: Right
+ 111111 11 1 1
+^             
+56: Condition
+111111 11 1 1
+^            
+13: Unmark
+111111 11 1 1
+^            
+14: Right
+ 11111 11 1 1
+^            
+15: Condition
+11111 11 1 1
+^           
+14: Right
+11111 11 1 1
+^           
+15: Condition
+11111 11 1 1
+ ^          
+14: Right
+11111 11 1 1
+ ^          
+15: Condition
+11111 11 1 1
+  ^         
+14: Right
+11111 11 1 1
+  ^         
+15: Condition
+11111 11 1 1
+   ^        
+14: Right
+11111 11 1 1
+   ^        
+15: Condition
+11111 11 1 1
+    ^       
+14: Right
+11111 11 1 1
+    ^       
+15: Condition
+11111 11 1 1
+     ^      
+16: Right
+11111 11 1 1
+     ^      
+17: Condition
+11111 11 1 1
+      ^     
+18: Right
+11111 11 1 1
+      ^     
+19: Condition
+11111 11 1 1
+       ^    
+18: Right
+11111 11 1 1
+       ^    
+19: Condition
+11111 11 1 1
+        ^   
+20: Left
+11111 11 1 1
+        ^   
+21: Unmark
+11111 11 1 1
+       ^    
+22: Left
+11111 1  1 1
+       ^    
+23: Condition
+11111 1  1 1
+      ^     
+22: Left
+11111 1  1 1
+      ^     
+23: Condition
+11111 1  1 1
+     ^      
+24: Left
+11111 1  1 1
+     ^      
+25: Condition
+11111 1  1 1
+    ^       
+24: Left
+11111 1  1 1
+    ^       
+25: Condition
+11111 1  1 1
+   ^        
+24: Left
+11111 1  1 1
+   ^        
+25: Condition
+11111 1  1 1
+  ^         
+24: Left
+11111 1  1 1
+  ^         
+25: Condition
+11111 1  1 1
+ ^          
+24: Left
+11111 1  1 1
+ ^          
+25: Condition
+11111 1  1 1
+^           
+24: Left
+11111 1  1 1
+^           
+25: Condition
+ 11111 1  1 1
+^            
+12: Right
+ 11111 1  1 1
+^            
+56: Condition
+11111 1  1 1
+^           
+13: Unmark
+11111 1  1 1
+^           
+14: Right
+ 1111 1  1 1
+^           
+15: Condition
+1111 1  1 1
+^          
+14: Right
+1111 1  1 1
+^          
+15: Condition
+1111 1  1 1
+ ^         
+14: Right
+1111 1  1 1
+ ^         
+15: Condition
+1111 1  1 1
+  ^        
+14: Right
+1111 1  1 1
+  ^        
+15: Condition
+1111 1  1 1
+   ^       
+14: Right
+1111 1  1 1
+   ^       
+15: Condition
+1111 1  1 1
+    ^      
+16: Right
+1111 1  1 1
+    ^      
+17: Condition
+1111 1  1 1
+     ^     
+18: Right
+1111 1  1 1
+     ^     
+19: Condition
+1111 1  1 1
+      ^    
+20: Left
+1111 1  1 1
+      ^    
+21: Unmark
+1111 1  1 1
+     ^     
+22: Left
+1111    1 1
+     ^     
+23: Condition
+1111    1 1
+    ^      
+24: Left
+1111    1 1
+    ^      
+25: Condition
+1111    1 1
+   ^       
+24: Left
+1111    1 1
+   ^       
+25: Condition
+1111    1 1
+  ^        
+24: Left
+1111    1 1
+  ^        
+25: Condition
+1111    1 1
+ ^         
+24: Left
+1111    1 1
+ ^         
+25: Condition
+1111    1 1
+^          
+24: Left
+1111    1 1
+^          
+25: Condition
+ 1111    1 1
+^           
+12: Right
+ 1111    1 1
+^           
+56: Condition
+1111    1 1
+^          
+13: Unmark
+1111    1 1
+^          
+14: Right
+ 111    1 1
+^          
+15: Condition
+111    1 1
+^         
+14: Right
+111    1 1
+^         
+15: Condition
+111    1 1
+ ^        
+14: Right
+111    1 1
+ ^        
+15: Condition
+111    1 1
+  ^       
+14: Right
+111    1 1
+  ^       
+15: Condition
+111    1 1
+   ^      
+16: Right
+111    1 1
+   ^      
+17: Condition
+111    1 1
+    ^     
+26: Mark
+111    1 1
+    ^     
+27: Right
+111 1  1 1
+    ^     
+28: Condition
+111 1  1 1
+     ^    
+26: Mark
+111 1  1 1
+     ^    
+27: Right
+111 11 1 1
+     ^    
+28: Condition
+111 11 1 1
+      ^   
+26: Mark
+111 11 1 1
+      ^   
+27: Right
+111 1111 1
+      ^   
+28: Condition
+111 1111 1
+       ^  
+29: Left
+111 1111 1
+       ^  
+30: Unmark
+111 1111 1
+      ^   
+31: Right
+111 11 1 1
+      ^   
+32: Right
+111 11 1 1
+       ^  
+33: Right
+111 11 1 1
+        ^ 
+34: Condition
+111 11 1 1
+         ^
+33: Right
+111 11 1 1
+         ^
+34: Condition
+111 11 1 1 
+          ^
+35: Mark
+111 11 1 1 
+          ^
+36: Left
+111 11 1 11
+          ^
+37: Condition
+111 11 1 11
+         ^ 
+36: Left
+111 11 1 11
+         ^ 
+37: Condition
+111 11 1 11
+        ^  
+38: Left
+111 11 1 11
+        ^  
+39: Left
+111 11 1 11
+       ^   
+40: Left
+111 11 1 11
+      ^    
+41: Condition
+111 11 1 11
+     ^     
+40: Left
+111 11 1 11
+     ^     
+41: Condition
+111 11 1 11
+    ^      
+40: Left
+111 11 1 11
+    ^      
+41: Condition
+111 11 1 11
+   ^       
+42: Left
+111 11 1 11
+   ^       
+43: Condition
+111 11 1 11
+  ^        
+44: Left
+111 11 1 11
+  ^        
+45: Condition
+111 11 1 11
+ ^         
+44: Left
+111 11 1 11
+ ^         
+45: Condition
+111 11 1 11
+^          
+44: Left
+111 11 1 11
+^          
+45: Condition
+ 111 11 1 11
+^           
+46: Mark
+ 111 11 1 11
+^           
+47: Left
+1111 11 1 11
+^           
+12: Right
+ 1111 11 1 11
+^            
+56: Condition
+1111 11 1 11
+^           
+13: Unmark
+1111 11 1 11
+^           
+14: Right
+ 111 11 1 11
+^           
+15: Condition
+111 11 1 11
+^          
+14: Right
+111 11 1 11
+^          
+15: Condition
+111 11 1 11
+ ^         
+14: Right
+111 11 1 11
+ ^         
+15: Condition
+111 11 1 11
+  ^        
+14: Right
+111 11 1 11
+  ^        
+15: Condition
+111 11 1 11
+   ^       
+16: Right
+111 11 1 11
+   ^       
+17: Condition
+111 11 1 11
+    ^      
+18: Right
+111 11 1 11
+    ^      
+19: Condition
+111 11 1 11
+     ^     
+18: Right
+111 11 1 11
+     ^     
+19: Condition
+111 11 1 11
+      ^    
+20: Left
+111 11 1 11
+      ^    
+21: Unmark
+111 11 1 11
+     ^     
+22: Left
+111 1  1 11
+     ^     
+23: Condition
+111 1  1 11
+    ^      
+22: Left
+111 1  1 11
+    ^      
+23: Condition
+111 1  1 11
+   ^       
+24: Left
+111 1  1 11
+   ^       
+25: Condition
+111 1  1 11
+  ^        
+24: Left
+111 1  1 11
+  ^        
+25: Condition
+111 1  1 11
+ ^         
+24: Left
+111 1  1 11
+ ^         
+25: Condition
+111 1  1 11
+^          
+24: Left
+111 1  1 11
+^          
+25: Condition
+ 111 1  1 11
+^           
+12: Right
+ 111 1  1 11
+^           
+56: Condition
+111 1  1 11
+^          
+13: Unmark
+111 1  1 11
+^          
+14: Right
+ 11 1  1 11
+^          
+15: Condition
+11 1  1 11
+^         
+14: Right
+11 1  1 11
+^         
+15: Condition
+11 1  1 11
+ ^        
+14: Right
+11 1  1 11
+ ^        
+15: Condition
+11 1  1 11
+  ^       
+16: Right
+11 1  1 11
+  ^       
+17: Condition
+11 1  1 11
+   ^      
+18: Right
+11 1  1 11
+   ^      
+19: Condition
+11 1  1 11
+    ^     
+20: Left
+11 1  1 11
+    ^     
+21: Unmark
+11 1  1 11
+   ^      
+22: Left
+11    1 11
+   ^      
+23: Condition
+11    1 11
+  ^       
+24: Left
+11    1 11
+  ^       
+25: Condition
+11    1 11
+ ^        
+24: Left
+11    1 11
+ ^        
+25: Condition
+11    1 11
+^         
+24: Left
+11    1 11
+^         
+25: Condition
+ 11    1 11
+^          
+12: Right
+ 11    1 11
+^          
+56: Condition
+11    1 11
+^         
+13: Unmark
+11    1 11
+^         
+14: Right
+ 1    1 11
+^         
+15: Condition
+1    1 11
+^        
+14: Right
+1    1 11
+^        
+15: Condition
+1    1 11
+ ^       
+16: Right
+1    1 11
+ ^       
+17: Condition
+1    1 11
+  ^      
+26: Mark
+1    1 11
+  ^      
+27: Right
+1 1  1 11
+  ^      
+28: Condition
+1 1  1 11
+   ^     
+26: Mark
+1 1  1 11
+   ^     
+27: Right
+1 11 1 11
+   ^     
+28: Condition
+1 11 1 11
+    ^    
+26: Mark
+1 11 1 11
+    ^    
+27: Right
+1 1111 11
+    ^    
+28: Condition
+1 1111 11
+     ^   
+29: Left
+1 1111 11
+     ^   
+30: Unmark
+1 1111 11
+    ^    
+31: Right
+1 11 1 11
+    ^    
+32: Right
+1 11 1 11
+     ^   
+33: Right
+1 11 1 11
+      ^  
+34: Condition
+1 11 1 11
+       ^ 
+33: Right
+1 11 1 11
+       ^ 
+34: Condition
+1 11 1 11
+        ^
+33: Right
+1 11 1 11
+        ^
+34: Condition
+1 11 1 11 
+         ^
+35: Mark
+1 11 1 11 
+         ^
+36: Left
+1 11 1 111
+         ^
+37: Condition
+1 11 1 111
+        ^ 
+36: Left
+1 11 1 111
+        ^ 
+37: Condition
+1 11 1 111
+       ^  
+36: Left
+1 11 1 111
+       ^  
+37: Condition
+1 11 1 111
+      ^   
+38: Left
+1 11 1 111
+      ^   
+39: Left
+1 11 1 111
+     ^    
+40: Left
+1 11 1 111
+    ^     
+41: Condition
+1 11 1 111
+   ^      
+40: Left
+1 11 1 111
+   ^      
+41: Condition
+1 11 1 111
+  ^       
+40: Left
+1 11 1 111
+  ^       
+41: Condition
+1 11 1 111
+ ^        
+42: Left
+1 11 1 111
+ ^        
+43: Condition
+1 11 1 111
+^         
+44: Left
+1 11 1 111
+^         
+45: Condition
+ 1 11 1 111
+^          
+46: Mark
+ 1 11 1 111
+^          
+47: Left
+11 11 1 111
+^          
+12: Right
+ 11 11 1 111
+^           
+56: Condition
+11 11 1 111
+^          
+13: Unmark
+11 11 1 111
+^          
+14: Right
+ 1 11 1 111
+^          
+15: Condition
+1 11 1 111
+^         
+14: Right
+1 11 1 111
+^         
+15: Condition
+1 11 1 111
+ ^        
+16: Right
+1 11 1 111
+ ^        
+17: Condition
+1 11 1 111
+  ^       
+18: Right
+1 11 1 111
+  ^       
+19: Condition
+1 11 1 111
+   ^      
+18: Right
+1 11 1 111
+   ^      
+19: Condition
+1 11 1 111
+    ^     
+20: Left
+1 11 1 111
+    ^     
+21: Unmark
+1 11 1 111
+   ^      
+22: Left
+1 1  1 111
+   ^      
+23: Condition
+1 1  1 111
+  ^       
+22: Left
+1 1  1 111
+  ^       
+23: Condition
+1 1  1 111
+ ^        
+24: Left
+1 1  1 111
+ ^        
+25: Condition
+1 1  1 111
+^         
+24: Left
+1 1  1 111
+^         
+25: Condition
+ 1 1  1 111
+^          
+12: Right
+ 1 1  1 111
+^          
+56: Condition
+1 1  1 111
+^         
+13: Unmark
+1 1  1 111
+^         
+14: Right
+  1  1 111
+^         
+15: Condition
+ 1  1 111
+^        
+16: Right
+ 1  1 111
+^        
+17: Condition
+1  1 111
+^       
+18: Right
+1  1 111
+^       
+19: Condition
+1  1 111
+ ^      
+20: Left
+1  1 111
+ ^      
+21: Unmark
+1  1 111
+^       
+22: Left
+   1 111
+^       
+23: Condition
+    1 111
+^        
+24: Left
+    1 111
+^        
+25: Condition
+     1 111
+^         
+12: Right
+     1 111
+^         
+56: Condition
+    1 111
+^        
+15: Condition
+    1 111
+^        
+16: Right
+    1 111
+^        
+17: Condition
+   1 111
+^       
+26: Mark
+   1 111
+^       
+27: Right
+1  1 111
+^       
+28: Condition
+1  1 111
+ ^      
+26: Mark
+1  1 111
+ ^      
+27: Right
+11 1 111
+ ^      
+28: Condition
+11 1 111
+  ^     
+26: Mark
+11 1 111
+  ^     
+27: Right
+1111 111
+  ^     
+28: Condition
+1111 111
+   ^    
+29: Left
+1111 111
+   ^    
+30: Unmark
+1111 111
+  ^     
+31: Right
+11 1 111
+  ^     
+32: Right
+11 1 111
+   ^    
+33: Right
+11 1 111
+    ^   
+34: Condition
+11 1 111
+     ^  
+33: Right
+11 1 111
+     ^  
+34: Condition
+11 1 111
+      ^ 
+33: Right
+11 1 111
+      ^ 
+34: Condition
+11 1 111
+       ^
+33: Right
+11 1 111
+       ^
+34: Condition
+11 1 111 
+        ^
+35: Mark
+11 1 111 
+        ^
+36: Left
+11 1 1111
+        ^
+37: Condition
+11 1 1111
+       ^ 
+36: Left
+11 1 1111
+       ^ 
+37: Condition
+11 1 1111
+      ^  
+36: Left
+11 1 1111
+      ^  
+37: Condition
+11 1 1111
+     ^   
+36: Left
+11 1 1111
+     ^   
+37: Condition
+11 1 1111
+    ^    
+38: Left
+11 1 1111
+    ^    
+39: Left
+11 1 1111
+   ^     
+40: Left
+11 1 1111
+  ^      
+41: Condition
+11 1 1111
+ ^       
+40: Left
+11 1 1111
+ ^       
+41: Condition
+11 1 1111
+^        
+40: Left
+11 1 1111
+^        
+41: Condition
+ 11 1 1111
+^         
+42: Left
+ 11 1 1111
+^         
+43: Condition
+  11 1 1111
+^          
+48: Right
+  11 1 1111
+^          
+49: Condition
+ 11 1 1111
+^         
+48: Right
+ 11 1 1111
+^         
+49: Condition
+11 1 1111
+^        
+50: Unmark
+11 1 1111
+^        
+51: Right
+ 1 1 1111
+^        
+52: Condition
+1 1 1111
+^       
+50: Unmark
+1 1 1111
+^       
+51: Right
+  1 1111
+^       
+52: Condition
+ 1 1111
+^      
+53: Right
+ 1 1111
+^      
+54: Unmark
+1 1111
+^     
+55: Finale
+  1111
+^     
